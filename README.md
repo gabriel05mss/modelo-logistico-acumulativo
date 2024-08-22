@@ -1,1 +1,1 @@
-# modelo-log-stico-acumulativo
+# modelo-logistico-acumulativo
